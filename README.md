@@ -54,4 +54,4 @@ United States of America has a larger area (9,372,610) than Brazil (8,515,767).
 ## How to run
 1. Activate the virtual environment: `source .venv/Scripts/activate`
 2. Install dependencies: `pip install requests`
-3. Run the program: `python countries.py`
+3. Run the program: `python main.py`
